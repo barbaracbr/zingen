@@ -45,7 +45,7 @@ O foco principal foi criar uma **interface moderna, organizada e responsiva**, p
 ## 📸 Demonstração
 Confira o projeto funcionando e explore a landing page do **Zingen**!  
 
-👉 [Clique aqui para ver o projeto funcionando](https://github.com/barbaracbr/zingen)  
+👉 [Clique aqui para ver o projeto funcionando](https://barbaracbr.github.io/zingen/)  
  
 
 ---
